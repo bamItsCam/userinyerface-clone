@@ -1137,7 +1137,7 @@ exports.default = _vue2.default.extend({
 });
 
 },{"./template.html":30,"vue/dist/vue.min.js":92}],30:[function(require,module,exports){
-module.exports = "<div class=end-screen><h1 class=end-screen__title>Congrats Ryan!</h1><h2 class=end-screen__subtitle>A true interface legend.</h2><img class=end-screen__image src=https://media.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif alt=\"Cool Corgi\"><p class=end-screen__text>Now head over to <a class=end-screen__link href=https://www.bagaar.be/who/careers>bagaar.be</a> and apply for a job!</p></div>";
+module.exports = "<div class=end-screen><h1 class=end-screen__title>gg no re</h1><h2 class=end-screen__subtitle>Congrats to a true interface legend.</h2><img class=end-screen__image src=https://media.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif alt=\"Cool Corgi\"><p class=end-screen__text>Now head over to <a class=end-screen__link href=https://www.bagaar.be/who/careers>bagaar.be</a> and apply for a job!</p></div>";
 
 },{}],31:[function(require,module,exports){
 'use strict';
