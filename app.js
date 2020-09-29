@@ -300,7 +300,7 @@ module.exports = "<button @click=click :class=className :name=name :type=type><s
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var prefix = 'images/captcha-galleries/bows/bow';
+var prefix = 'https://userinyerface.com/images/captcha-galleries/bows/bow';
 exports.default = {
   title: 'Select all pictures with a bow',
   images: [{ value: true, url: prefix + '0.jpg' }, { value: true, url: prefix + '1.jpg' }, { value: true, url: prefix + '2.jpg' }, { value: true, url: prefix + '3.jpg' }, { value: true, url: prefix + '4.jpg' }, { value: true, url: prefix + '5.jpg' }, { value: true, url: prefix + '6.jpg' }, { value: true, url: prefix + '7.jpg' }, { value: true, url: prefix + '8.jpg' }, { value: true, url: prefix + '9.jpg' }, { value: true, url: prefix + '10.jpg' }, { value: true, url: prefix + '11.jpg' }, { value: true, url: prefix + '12.jpg' }, { value: true, url: prefix + '13.jpg' }, { value: true, url: prefix + '14.jpg' }, { value: true, url: prefix + '15.jpg' }, { value: true, url: prefix + '16.jpg' }, { value: true, url: prefix + '17.jpg' }, { value: true, url: prefix + '18.png' }, { value: true, url: prefix + '19.jpg' }, { value: true, url: prefix + '20.jpg' }, { value: true, url: prefix + '21.jpg' }, { value: true, url: prefix + '22.jpg' }, { value: true, url: prefix + '23.jpg' }, { value: true, url: prefix + '24.jpg' }, { value: true, url: prefix + '25.jpg' }, { value: true, url: prefix + '26.jpg' }, { value: true, url: prefix + '27.jpg' }]
@@ -312,7 +312,7 @@ exports.default = {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var prefix = 'images/captcha-galleries/checks/check';
+var prefix = 'https://userinyerface.com/images/captcha-galleries/checks/check';
 exports.default = {
   title: 'Select all checks',
   images: [{ value: true, url: prefix + '0.png' }, { value: true, url: prefix + '1.jpg' }, { value: true, url: prefix + '2.jpg' }, { value: true, url: prefix + '3.jpg' }, { value: true, url: prefix + '4.jpg' }, { value: true, url: prefix + '5.jpg' }, { value: true, url: prefix + '6.jpg' }, { value: true, url: prefix + '7.jpg' }, { value: true, url: prefix + '8.jpg' }, { value: true, url: prefix + '9.jpg' }, { value: true, url: prefix + '10.jpg' }, { value: true, url: prefix + '11.jpg' }, { value: true, url: prefix + '12.jpg' }, { value: true, url: prefix + '13.jpg' }, { value: true, url: prefix + '14.png' }, { value: true, url: prefix + '15.jpg' }, { value: true, url: prefix + '16.png' }, { value: true, url: prefix + '17.png' }, { value: true, url: prefix + '18.jpg' }, { value: true, url: prefix + '19.jpg' }, { value: true, url: prefix + '20.png' }]
@@ -324,7 +324,7 @@ exports.default = {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var prefix = 'images/captcha-galleries/circles/circle';
+var prefix = 'https://userinyerface.com/images/captcha-galleries/circles/circle';
 exports.default = {
   title: 'Select all pictures with a circle',
   images: [{ value: true, url: prefix + '0.jpg' }, { value: true, url: prefix + '1.png' }, { value: true, url: prefix + '2.jpg' }, { value: true, url: prefix + '3.jpg' }, { value: true, url: prefix + '4.jpg' }, { value: true, url: prefix + '5.jpg' }, { value: true, url: prefix + '6.jpg' }, { value: true, url: prefix + '7.jpg' }, { value: true, url: prefix + '8.jpg' }, { value: true, url: prefix + '9.png' }, { value: true, url: prefix + '10.jpg' }, { value: true, url: prefix + '11.jpg' }, { value: true, url: prefix + '12.jpg' }, { value: true, url: prefix + '13.jpg' }, { value: true, url: prefix + '14.jpg' }, { value: true, url: prefix + '15.jpg' }, { value: true, url: prefix + '16.jpg' }]
@@ -336,7 +336,7 @@ exports.default = {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var prefix = 'images/captcha-galleries/glasses/glasses';
+var prefix = 'https://userinyerface.com/images/captcha-galleries/glasses/glasses';
 exports.default = {
   title: 'Select all pictures with glasses',
   images: [{ value: true, url: prefix + '0.jpg' }, { value: true, url: prefix + '1.jpg' }, { value: true, url: prefix + '2.jpg' }, { value: true, url: prefix + '3.jpg' }, { value: true, url: prefix + '4.jpg' }, { value: true, url: prefix + '5.jpg' }, { value: true, url: prefix + '6.jpg' }, { value: true, url: prefix + '7.jpg' }, { value: true, url: prefix + '8.jpg' }, { value: true, url: prefix + '9.jpg' }, { value: true, url: prefix + '10.jpg' }, { value: true, url: prefix + '11.jpg' }, { value: true, url: prefix + '12.jpg' }, { value: true, url: prefix + '13.jpg' }, { value: true, url: prefix + '14.jpg' }, { value: true, url: prefix + '15.jpg' }, { value: true, url: prefix + '16.jpg' }]
@@ -384,7 +384,7 @@ exports.bow = _bow2.default;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var prefix = 'images/captcha-galleries/light/light';
+var prefix = 'https://userinyerface.com/images/captcha-galleries/light/light';
 exports.default = {
   title: 'Select all light pictures',
   images: [{ value: true, url: prefix + '0.jpg' }, { value: true, url: prefix + '1.jpg' }, { value: true, url: prefix + '2.jpg' }, { value: true, url: prefix + '3.jpg' }, { value: true, url: prefix + '4.jpg' }, { value: true, url: prefix + '5.jpg' }, { value: true, url: prefix + '6.jpg' }, { value: true, url: prefix + '7.jpg' }, { value: true, url: prefix + '8.jpg' }, { value: true, url: prefix + '9.jpg' }, { value: true, url: prefix + '10.jpg' }, { value: true, url: prefix + '11.jpg' }, { value: true, url: prefix + '12.jpg' }, { value: true, url: prefix + '13.jpg' }, { value: true, url: prefix + '14.jpg' }, { value: true, url: prefix + '15.jpg' }, { value: true, url: prefix + '16.jpg' }, { value: true, url: prefix + '17.jpg' }]
@@ -1137,7 +1137,7 @@ exports.default = _vue2.default.extend({
 });
 
 },{"./template.html":30,"vue/dist/vue.min.js":92}],30:[function(require,module,exports){
-module.exports = "<div class=end-screen><h1 class=end-screen__title>You are awesome!</h1><h2 class=end-screen__subtitle>A true interface legend.</h2><img class=end-screen__image src=/images/carlton-dancing.gif alt=\"Carlton Dancing\"><p class=end-screen__text>Now head over to <a class=end-screen__link href=https://www.bagaar.be/who/careers>bagaar.be</a> and apply for a job!</p></div>";
+module.exports = "<div class=end-screen><h1 class=end-screen__title>Happy Birthday Ryan!</h1><h2 class=end-screen__subtitle>A true interface legend.</h2><img class=end-screen__image src=https://media.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif alt=\"Cool Corgi\"><p class=end-screen__text>Now head over to <a class=end-screen__link href=https://www.bagaar.be/who/careers>bagaar.be</a> and apply for a job!</p></div>";
 
 },{}],31:[function(require,module,exports){
 'use strict';
